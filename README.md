@@ -17,3 +17,7 @@ Please Have a Look at README file for More details
 7) We can run the Cucumber Frame work using Unit Test Frameworks like Junit or Testng.
 
 8) The whole project is based on Maven for easy catching the dependencies.
+
+9) If we have the plugins like Jira-Xray or Zyphire we can execute test scripts and can update the results in the Jira it self and 
+   we can avoid writing the Manual Test Cases seperately, we can start writing the Manual Test Cases directly in Xray or Zyphire as a Cucumber Test Cases and
+   the same can be leverage by automation.
